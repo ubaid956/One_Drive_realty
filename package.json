@@ -1,0 +1,29 @@
+{
+  "name": "ondrive-realty-workspace",
+  "version": "1.0.0",
+  "private": true,
+  "description": "OnDrive Realty - NWMLS-integrated real estate platform",
+  "scripts": {
+    "install:backend": "cd backend && npm install",
+    "install:frontend": "cd frontend && npm install",
+    "install:all": "npm run install:backend && npm run install:frontend",
+    "dev:backend": "cd backend && npm run dev",
+    "dev:frontend": "cd frontend && npm run dev",
+    "start:backend": "cd backend && npm start",
+    "start:frontend": "cd frontend && npm start",
+    "build:frontend": "cd frontend && npm run build"
+  },
+  "workspaces": [
+    "backend",
+    "frontend"
+  ],
+  "keywords": [
+    "real-estate",
+    "nwmls",
+    "next.js",
+    "express",
+    "mongodb"
+  ],
+  "author": "OnDrive Realty",
+  "license": "PROPRIETARY"
+}

@@ -1,0 +1,81 @@
+/** @type {import('tailwindcss').Config} */
+module.exports = {
+  content: [
+    './pages/**/*.{js,ts,jsx,tsx,mdx}',
+    './components/**/*.{js,ts,jsx,tsx,mdx}',
+    './app/**/*.{js,ts,jsx,tsx,mdx}',
+  ],
+  theme: {
+    extend: {
+      colors: {
+        // GlobalFaiths.org Logo Colors
+        'islamic-green': '#439539',
+        'christian-red': '#D12E34',
+        'hebrew-gold': '#EFBB49',
+        'protestant-blue': '#234290',
+        'guru-white': '#FFFFFF',
+        'human-orange': '#E69428',
+        'blush-pink-light': '#F4DED7',
+        
+        // 15-Color Palette from Reference
+        'navy-dark': '#0F1C3F',
+        'royal-blue': '#1E3A8A',
+        'muted-blue': '#2D3A6B',
+        'mustard-gold': '#D4AF37',
+        'pale-yellow': '#F5E6A1',
+        'golden-yellow': '#FFBF00',
+        'burnt-orange': '#C1440E',
+        'earth-brown': '#B65F3A',
+        'red-brown': '#8A3324',
+        'forest-green': '#2E8B57',
+        'olive-green': '#556B2F',
+        'off-white': '#F8F4EF',
+        'warm-beige': '#EDE6DA',
+        'cool-taupe': '#DCD6C9',
+        'deep-purple': '#6A0DAD',
+        
+        // Primary brand colors
+        primary: {
+          DEFAULT: '#1E3A8A',
+          50: '#e8edf7',
+          100: '#c5d1eb',
+          200: '#9db0dd',
+          300: '#748fcf',
+          400: '#5675c5',
+          500: '#385bbb',
+          600: '#3254b3',
+          700: '#2a4aa9',
+          800: '#2340a1',
+          900: '#162f93',
+        },
+        secondary: {
+          DEFAULT: '#DC2626',
+          50: '#fee2e2',
+          100: '#fecaca',
+          200: '#fca5a5',
+          300: '#f87171',
+          400: '#f87171',
+          500: '#ef4444',
+          600: '#dc2626',
+          700: '#b91c1c',
+          800: '#991b1b',
+          900: '#7f1d1d',
+        },
+        gold: {
+          DEFAULT: '#D4AF37',
+          50: '#faf7ed',
+          100: '#f4ecd1',
+          200: '#e8d7a3',
+          300: '#dcbe70',
+          400: '#d4af37',
+          500: '#c99f1f',
+          600: '#b08515',
+          700: '#926414',
+          800: '#785016',
+          900: '#644314',
+        },
+      },
+    },
+  },
+  plugins: [],
+}
