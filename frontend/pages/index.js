@@ -8,8 +8,9 @@ export default function Home() {
     // Redirect to landing page
     router.push('/landing');
   }, [router]);
+  
 
   return null;
-  
+
   
 }
