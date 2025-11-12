@@ -38,4 +38,17 @@ api.interceptors.response.use(
   }
 );
 
+// Fetch properties with filters and pagination
+export const fetchProperties = async (filters) => {
+  try {
+    const response = await api.get('/api/listings', {
+      params: filters
+    });
+    return response.data;
+  } catch (error) {
+    console.error('Failed to fetch properties:', error);
+    throw error;
+  }
+};
+
 export default api;

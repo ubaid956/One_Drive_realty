@@ -70,9 +70,14 @@ router.get('/', async (req, res) => {
       }
     });
   } catch (error) {
-    console.error('Get listings error:', error);
-    res.status(500).json({ error: 'Server error' });
+    console.error('Get listings error:', {
+      message: error.message,
+      stack: error.stack,
+      queryParameters: req.query
+    });
+    res.status(500).json({ error: 'Server error: ' + error.message });
   }
+
 });
 
 // @route   GET /api/listings/featured

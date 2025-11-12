@@ -1,0 +1,48 @@
+ONE DRIVE REALTY – DATA ANALYTICS SUMMARY
+
+LICENSEE SEGMENTATION LOGIC
+- Total Outreach: 100
+- Active Brokers: 31
+- Inactive Brokers: 37
+- Inactive - No Affiliations: 12
+- Managing Brokers: 32
+
+ACTIVATION FORECAST (Next 30 Days):
+- Day 1: 47.01% potential reactivations
+- Day 2: 46.97% potential reactivations
+- Day 3: 46.93% potential reactivations
+- Day 4: 46.89% potential reactivations
+- Day 5: 46.85% potential reactivations
+- Day 6: 46.81% potential reactivations
+- Day 7: 46.77% potential reactivations
+- Day 8: 46.73% potential reactivations
+- Day 9: 46.69% potential reactivations
+- Day 10: 46.66% potential reactivations
+- Day 11: 46.62% potential reactivations
+- Day 12: 46.58% potential reactivations
+- Day 13: 46.54% potential reactivations
+- Day 14: 46.5% potential reactivations
+- Day 15: 46.46% potential reactivations
+- Day 16: 46.42% potential reactivations
+- Day 17: 46.38% potential reactivations
+- Day 18: 46.34% potential reactivations
+- Day 19: 46.31% potential reactivations
+- Day 20: 46.27% potential reactivations
+- Day 21: 46.23% potential reactivations
+- Day 22: 46.19% potential reactivations
+- Day 23: 46.15% potential reactivations
+- Day 24: 46.11% potential reactivations
+- Day 25: 46.07% potential reactivations
+- Day 26: 46.03% potential reactivations
+- Day 27: 45.99% potential reactivations
+- Day 28: 45.95% potential reactivations
+- Day 29: 45.92% potential reactivations
+- Day 30: 45.88% potential reactivations
+
+INCENTIVE STRUCTURE:
+- 100% Sponsorship Program: $45–$176, 30 agents
+- IDX Accounts: $25–$90, 30 agents
+- Website + Email: $160–$15, 30 agents
+- CYPS 360° Yard Sign: Variable, 1,000 units (prototype deployment)
+
+CYPS Deployment Map: reports/cyps_deployment_map.html
